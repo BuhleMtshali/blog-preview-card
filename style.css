@@ -35,3 +35,16 @@ button {
 .name {
   padding-left: 5px;
 }
+.date {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h3 {
+  margin: 0;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+.text {
+  margin-top: 0;
+  color: hsl(0, 0%, 50%);
+}
