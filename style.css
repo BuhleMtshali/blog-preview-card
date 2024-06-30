@@ -3,9 +3,19 @@ body {
   font-family: "Figtree", sans-serif;
 }
 .container {
-  display: flex;
-  justify-content: center;
-}
-.inner {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  background-color: white;
+  width: 350px;
+  height: auto;
+  padding: 15px;
+  border-radius: 15px;
+}
+img {
+  object-fit: contain;
+  object-position: center;
+  width: 350px;
+  border-radius: 15px;
 }
